@@ -8,3 +8,7 @@ The staging area is an intermediary between the working directory and the reposi
 
 The value of the staging area is that it allows us to prepare and group multiple files (in the same state) to be committed at one time.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+It's easy to prepare a commit by making the needed changes (across multiple files if needed) and then committing the total logical change at once.
+
