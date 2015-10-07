@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It sets up the folder to be accessable by git hub.  You need it initialized to be able to commit version data to the hub.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an intermediary between the working directory and the repository.  It's a virtual area that lists the working directory files to be committed to the repository.
+
+The value of the staging area is that it allows us to prepare and group multiple files (in the same state) to be committed at one time.
+
