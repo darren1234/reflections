@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 
 It allows us to see the growth of the project.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allows different modifications of code to be grouped into one project.  We represent the diagram the way we do to show the iterative process built in each branch.
+
