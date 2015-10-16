@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 For comparison.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Copying and transferring code, and lots of communication.  A better understanding of the project based on the information would be an advantage but a big project with multiple parts would be difficult to manage.
+
