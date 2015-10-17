@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Copying and transferring code, and lots of communication.  A better understanding of the project based on the information would be an advantage but a big project with multiple parts would be difficult to manage.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch when collaborating or testing a separate idea before implementing.  The benefit when just using the master is when the changes are small; it's quick and easy.  The benefit of the branch is collaborating with others and showing changes before implementing them.
+
